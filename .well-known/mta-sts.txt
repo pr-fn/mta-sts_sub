@@ -1,5 +1,7 @@
 version: STSv1
 mode: enforce
-mx: mx1.forwardemail.net
-mx: mx2.forwardemail.net
+mx: mxext1.mailbox.org
+mx: mxext2.mailbox.org
+mx: mxext3.mailbox.org
+mx: mxext4.mailbox.org
 max_age: 86400
